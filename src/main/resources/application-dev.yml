@@ -1,0 +1,13 @@
+#apollo:
+#  meta: http://192.168.193.128:8080/
+#  cacheDir: C:\
+#  cluster: dev
+#  bootstrap:
+#    eagerLoad:
+#      enabled=true:
+#    enabled: true
+#    namespace: application
+#app:
+#  id: demo-rabbitmq
+## apollo的环境
+#env: SIT
